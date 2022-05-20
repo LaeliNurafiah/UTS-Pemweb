@@ -50,7 +50,7 @@
     <div class="container">
         <div class="row my-2">
             <div class="col-md">
-                <h3 class="fw-bold text-uppercase"><i class="bi bi-pencil-square"></i>&nbsp;Ubah Data Siswa</h3>
+                <h3 class="fw-bold text-uppercase"><i class="bi bi-pencil-square"></i>&nbsp;Ubah Data Kendaraan</h3>
             </div>
             <hr>
         </div>
